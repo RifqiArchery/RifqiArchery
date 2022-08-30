@@ -1,10 +1,11 @@
 hello
 saya rifqi
 saya sekarang sedang mencoba fitur baru di github
-tolong jangan di bully
 sekarang saya sedang mencoba membuat file baru di github ini sekarang
-saya akan mencontohkanya
+saya memperbarui ini
 fitur baru akan saya tambahkan yaitu hitunagn mundur dari 3
 3
 2
 1
+
+fitur yang akan di hapus adalah sebagai brikut
